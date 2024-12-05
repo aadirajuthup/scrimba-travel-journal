@@ -13,8 +13,7 @@ This project is a solution to a challenge from the Scrimba React course. It serv
 
 ## Preview Link
 
-You can view a live version of the project here:  
-[![Vercel](https://vercel.com/button)](https://scrimba-travel-journal-orcin.vercel.app/)
+You can view a live version of the project here: [![Vercel](https://img.shields.io/badge/Preview-Vercel-000000?logo=vercel)](https://scrimba-travel-journal-orcin.vercel.app/)
 
 ## Learning Journey
 
