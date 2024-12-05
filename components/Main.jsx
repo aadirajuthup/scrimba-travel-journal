@@ -4,7 +4,7 @@ function Main() {
   return(
   <main>
       <Entry 
-        img="../images/fuji.png" 
+        img="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/fuji.png?raw=true" 
         mlink="https://maps.app.goo.gl/XhSksi4Qo1ATyRX38" 
         country="JAPAN" 
         location="Mount Fuji" 
@@ -12,7 +12,7 @@ function Main() {
         content = "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists."
       />
       <Entry 
-        img="../images/opera.png"
+        img="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/opera.png?raw=true"
         country="AUSTRALIA"
         location="Sydney Opera House"
         date="27 May, 2023 - 8 Jun, 2023"
@@ -20,7 +20,7 @@ function Main() {
         mlink="https://maps.app.goo.gl/B6EELgoWRKtusgXg6"
       />
       <Entry
-        img="../images/norway.png"
+        img="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/norway.png?raw=true"
         country="NORWAY"
         location="Geirangerfjord"
         date="01 Oct, 2024 - 18 Nov, 2024"
@@ -31,7 +31,7 @@ function Main() {
       {/* ChatGPT Generated Code Below */}
 
       <Entry 
-        img="../images/eiffel.jpg" 
+        img="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/eiffel.jpg?raw=true" 
         mlink="https://maps.app.goo.gl/di33BqANiDqxA4jN6"
         country="FRANCE" 
         location="Eiffel Tower" 
@@ -39,7 +39,7 @@ function Main() {
         content="The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower."
       />
       <Entry 
-        img="../images/giza.jpg"
+        img="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/giza.jpg?raw=true"
         country="EGYPT"
         location="Great Pyramid of Giza"
         date="10 Sep, 2023 - 25 Sep, 2023"
@@ -47,7 +47,7 @@ function Main() {
         mlink="https://maps.app.goo.gl/WF1J7WoW1N3Gy7XJ7"
       />
       <Entry
-        img="../images/liberty.jpg"
+        img="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/liberty.jpg?raw=true"
         country="USA"
         location="Statue of Liberty"
         date="04 Jul, 2023 - 15 Jul, 2023"
@@ -55,7 +55,7 @@ function Main() {
         mlink="https://maps.app.goo.gl/d81swB2iwaiC2pgLA"
       />
       <Entry
-        img="../images/tajmahal.jpg"
+        img="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/tajmahal.jpg?raw=true"
         country="INDIA"
         location="Taj Mahal"
         date="05 Nov, 2023 - 20 Nov, 2023"
@@ -63,7 +63,7 @@ function Main() {
         mlink="https://maps.app.goo.gl/vjpGYtdLsbp78PRW7"
       />
       <Entry
-        img="../images/christ.jpeg"
+        img="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/christ.jpeg?raw=true"
         country="BRAZIL"
         location="Christ the Redeemer"
         date="18 Dec, 2023 - 30 Dec, 2023"
@@ -71,7 +71,7 @@ function Main() {
         mlink="https://maps.app.goo.gl/FxxwaS4gcv57kLfBA"
       />
       <Entry
-        img="../images/colosseum.jpg"
+        img="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/colosseum.jpg?raw=true"
         country="ITALY"
         location="Colosseum"
         date="12 Aug, 2023 - 22 Aug, 2023"
@@ -79,7 +79,7 @@ function Main() {
         mlink="https://maps.app.goo.gl/LmdyqVHKdqvaxK679"
       />
       <Entry
-        img="../images/peru.jpg"
+        img="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/peru.jpg?raw=true"
         country="PERU"
         location="Machu Picchu"
         date="01 Jul, 2023 - 15 Jul, 2023"
