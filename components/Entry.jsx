@@ -6,7 +6,7 @@ function Entry(prop) {
         <img src={prop.img} />
       </div>
       <div className="entry-content-container">
-        <img className="marker" src="/images/marker.png" />
+        <img className="marker" src="https://github.com/aadirajuthup/scrimba-travel-journal/blob/main/images/marker.png?raw=true" />
         <span className="location"> {prop.country} </span>
         <a className="map-link" href={prop.mlink} target="_blank"> View on Google Maps </a>
         <h1 className="entry-location"> {prop.location} </h1>
