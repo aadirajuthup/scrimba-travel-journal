@@ -1,8 +1,21 @@
-# React + Vite
+# Scrimba Travel Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a solution to a challenge from the Scrimba React course. It serves as a **Travel Journal** app, where users can store and display information about places they’ve visited. This project utilizes React to demonstrate the use of **props**, which are passed down from parent components to child components.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display travel entries dynamically with the use of props.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **Vite**: Build tool and development server used for fast builds and hot module replacement.
+
+## Preview Link
+
+You can view a live version of the project here:  
+[![Vercel](https://vercel.com/button)](https://scrimba-travel-journal-orcin.vercel.app/)
+
+## Learning Journey
+
+This project is part of my learning journey through the Scrimba React course, focusing on understanding and using **props** in React.
